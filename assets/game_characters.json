@@ -1,0 +1,44 @@
+{"frames": [
+
+{
+	"filename": "Screen Shot 2017-04-10 at 15.06.03.png",
+	"frame": {"x":123,"y":0,"w":127,"h":328},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":328},
+	"sourceSize": {"w":127,"h":328}
+},
+{
+	"filename": "Screen Shot 2017-04-10 at 15.06.14.png",
+	"frame": {"x":0,"y":653,"w":135,"h":328},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":135,"h":328},
+	"sourceSize": {"w":135,"h":328}
+},
+{
+	"filename": "Screen Shot 2017-04-10 at 15.06.22.png",
+	"frame": {"x":0,"y":328,"w":129,"h":325},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":129,"h":325},
+	"sourceSize": {"w":129,"h":325}
+},
+{
+	"filename": "Screen Shot 2017-04-10 at 15.06.29.png",
+	"frame": {"x":0,"y":0,"w":123,"h":324},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":123,"h":324},
+	"sourceSize": {"w":123,"h":324}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "game_characters.png",
+	"format": "RGBA8888",
+	"size": {"w":250,"h":981},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:f19857b9d126da91ba45f19bcffb289e:242e6afadb1c26b9e39d4ac4db498e80:1ce399e30a75ed61cae18cd01e56d27b$"
+}
+}
